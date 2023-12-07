@@ -1,2 +1,3 @@
 # AWS_SkillBuilderForBusiness
-AWS skill builder for business - Working repository 
+## AWS skill builder for business - Learning repository 
+### Courses, learning paths, live sessions content and more...
